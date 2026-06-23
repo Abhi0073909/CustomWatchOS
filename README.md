@@ -1,5 +1,5 @@
 # Leta
-```The name:``` Leta is summer in russia. It is the time that i started to make my own wrist watch.
+```The name:``` DO NOT FORK THIS, PLEASE FORK THE ORIGINAL FROM THE ORIGINAL AUTHOR.
 
 <figure>
   <img
